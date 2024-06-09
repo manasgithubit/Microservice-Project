@@ -1,0 +1,11 @@
+{
+	"id": 101,
+	"name": "Manas",
+	"email": "sahoo@134",
+	"phno": 98408430,
+	"addrs": {
+		"city": "Bhubaneswar",
+		"state": "Odisha",
+		"country": "India"
+	}
+}
